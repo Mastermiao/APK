@@ -1,0 +1,16 @@
+{
+  "id": "com.example.apptwo.fragment.20151223.1",
+  "files": [{
+    "id": "com.example.apptwo.fragment.20151223.1",
+    "md5": "92e0d57215f5d359e4cc2601303386fa",
+    "url": "https://raw.github.com/Mastermiao/APP/master/site/avatar/com.example.apptwo.fragment.20151223.1.apk"
+  }],
+  "fragments": [
+    {
+      "host": "avatar",
+      "name": "com.example.apptwo.fragment.FrighterFragment",
+      "code": "com.example.apptwo.fragment.20151223.1"
+    }
+  ],
+  "version": "20151223.1"
+}
